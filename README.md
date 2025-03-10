@@ -1,58 +1,94 @@
-<h1 align="center">Hi there! 👋 I'm Manish Yadav </h1>
-<p align="center">
-  🚀 Student | Developer | Tech Enthusiast  
-</p>
+# Hi there! 👋 I'm Manish Yadav 
 
----
+## 🚀 About Me  
+I'm a **3rd-year Computer Science Engineering student** passionate about **data analysis** and **web development**. I'm currently honing my **Python** and **JavaScript (MERN Stack)** skills while working on various projects. I aim to build scalable and impactful applications that solve real-world problems.  
 
-### 🚀 **About Me**  
-- 🎓 **Currently Working On:** Student Management System using Servlets & JDBC  
-- 🔥 **Passionate About:** Building Scalable & Efficient Applications  
-- 🎯 **Goals for 2025:** Master Full-Stack Development  
+## 🔥 Current Focus  
+- Preparing for **campus placements** (focusing on **DSA, system design, and competitive coding**)  
+- Mastering **Binary Trees, BSTs, and Graph algorithms** for coding interviews  
+- Exploring **data science** and **backend development**  
+- Improving **problem-solving skills** through **LeetCode & CodeChef**  
 
----
+## 🛠️ Tech Stack  
+- **Languages:** Python, JavaScript  
+- **Backend:** Node.js, Express.js, Hibernate  
+- **Frontend:** React.js, HTML, CSS  
+- **Databases:** MongoDB, MySQL  
+- **Tools & Frameworks:** Maven, Git, Postman  
 
-### 🛠 **Tech Stack**  
-#### **Frontend**  
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+## 📌 Projects  
+- 🚀 **Parent Alert System** (MERN Stack) – A leave management system where wardens can approve/reject student leave requests and send email alerts to parents.  
+- 🎓 **Student Management System** (Hibernate + Maven) – A web-based system for managing student records with CRUD operations.  
+- 🍽️ **Restaurant Booking System** (Ongoing) – A platform where users can book seats in restaurants, and restaurants can register themselves.  
 
-#### **Backend**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![Servlets](https://img.shields.io/badge/-Servlets-323330?style=flat&logo=java&logoColor=white)  
-![JDBC](https://img.shields.io/badge/-JDBC-F7DF1E?style=flat&logo=java&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+## 📖 Learning & Growth  
+I'm actively improving my **coding skills** while preparing for **GATE & competitive programming**. I love exploring **data analysis techniques** and **software development methodologies**.  
 
-#### **Database & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+## 📫 Connect with Me  
+# Hi there! 👋 I'm Neelam  
 
----
+## 🚀 About Me  
+I'm a **3rd-year Computer Science Engineering student** passionate about **data analysis** and **web development**. I'm currently honing my **Python** and **JavaScript (MERN Stack)** skills while working on various projects. I aim to build scalable and impactful applications that solve real-world problems.  
 
-### 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishyadav1391&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🔥 Current Focus  
+- Preparing for **campus placements** (focusing on **DSA, system design, and competitive coding**)  
+- Mastering **Binary Trees, BSTs, and Graph algorithms** for coding interviews  
+- Exploring **data science** and **backend development**  
+- Improving **problem-solving skills** through **LeetCode & CodeChef**  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishyadav1391&theme=radical" alt="GitHub Streak" />
-</p>
+## 🛠️ Tech Stack  
+- **Languages:** Python, JavaScript  
+- **Backend:** Node.js, Express.js, Hibernate  
+- **Frontend:** React.js, HTML, CSS  
+- **Databases:** MongoDB, MySQL  
+- **Tools & Frameworks:** Maven, Git, Postman  
 
----
+## 📌 Projects  
+- 🚀 **Parent Alert System** (MERN Stack) – A leave management system where wardens can approve/reject student leave requests and send email alerts to parents.  
+- 🎓 **Student Management System** (Hibernate + Maven) – A web-based system for managing student records with CRUD operations.  
+- 🍽️ **Restaurant Booking System** (Ongoing) – A platform where users can book seats in restaurants, and restaurants can register themselves.  
 
-### 📌 **Pinned Repositories**  
-🚀 **[Student Management System](https://github.com/your-username/Student-Management-System)** - Java Servlets & JDBC-based system  
-🌍 **[Parental Alert System (MERN)](https://github.com/your-username/Parental-Alert-System)** - React.js, Node.js, MongoDB  
+## 📖 Learning & Growth  
+I'm actively improving my **coding skills** while preparing for **GATE & competitive programming**. I love exploring **data analysis techniques** and **software development methodologies**.  
 
----
+## 📫 Connect with Me  
+-# Hi there! 👋 I'm Neelam  
 
-### 🌎 **Let's Connect!**  
+## 🚀 About Me  
+I'm a **3rd-year Computer Science Engineering student** passionate about **data analysis** and **web development**. I'm currently honing my **Python** and **JavaScript (MERN Stack)** skills while working on various projects. I aim to build scalable and impactful applications that solve real-world problems.  
+
+## 🔥 Current Focus  
+- Preparing for **campus placements** (focusing on **DSA, system design, and competitive coding**)  
+- Mastering **Binary Trees, BSTs, and Graph algorithms** for coding interviews  
+- Exploring **data science** and **backend development**  
+- Improving **problem-solving skills** through **LeetCode & CodeChef**  
+
+## 🛠️ Tech Stack  
+- **Languages:** Python, JavaScript  
+- **Backend:** Node.js, Express.js, Hibernate  
+- **Frontend:** React.js, HTML, CSS  
+- **Databases:** MongoDB, MySQL  
+- **Tools & Frameworks:** Maven, Git, Postman  
+
+## 📌 Projects  
+- 🚀 **Parent Alert System** (MERN Stack) – A leave management system where wardens can approve/reject student leave requests and send email alerts to parents.  
+- 🎓 **Student Management System** (Hibernate + Maven) – A web-based system for managing student records with CRUD operations.  
+- 🍽️ **Restaurant Booking System** (Ongoing) – A platform where users can book seats in restaurants, and restaurants can register themselves.  
+
+## 📖 Learning & Growth  
+I'm actively improving my **coding skills** while preparing for **GATE & competitive programming**. I love exploring **data analysis techniques** and **software development methodologies**.  
+
+## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav1391/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishyadav940833@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishyadav940833@gmail.com) 
+- **Email:** [Your Email](#)  
 
----
+Let's collaborate and build something amazing together! 🚀  
 
-🔥 *"Code. Debug. Repeat."* 🔥  
+- **Email:** [Your Email](#)  
+
+Let's collaborate and build something amazing together! 🚀  
+  
+- **Email:** [Your Email](#)  
+
+Let's collaborate and build something amazing together! 🚀  
