@@ -81,14 +81,5 @@ I'm actively improving my **coding skills** while preparing for **GATE & competi
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav1391/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishyadav940833@gmail.com) 
-- **Email:** [Your Email](#)  
-
-Let's collaborate and build something amazing together! 🚀  
-
-- **Email:** [Your Email](#)  
-
-Let's collaborate and build something amazing together! 🚀  
-  
-- **Email:** [Your Email](#)  
 
 Let's collaborate and build something amazing together! 🚀  
