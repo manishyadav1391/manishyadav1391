@@ -4,8 +4,7 @@
 I'm a **3rd-year Computer Science Engineering student** passionate about **data analysis** and **web development**. I'm currently honing my **Python** and **JavaScript (MERN Stack)** skills while working on various projects. I aim to build scalable and impactful applications that solve real-world problems.  
 
 ## 🔥 Current Focus  
-- Preparing for **campus placements** (focusing on **DSA, system design, and competitive coding**)  
-- Mastering **Binary Trees, BSTs, and Graph algorithms** for coding interviews  
+
 - Exploring **data science** and **backend development**  
 - Improving **problem-solving skills** through **LeetCode & CodeChef**  
 
