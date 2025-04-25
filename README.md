@@ -1,7 +1,7 @@
 
 
 ## 📫 Connect with Me  
--# Hi there! 👋 I'm Manish Yadav  
+# Hi there! 👋 I'm Manish Yadav  
 
 ## 🚀 About Me  
 I'm a **3rd-year Computer Science Engineering student** passionate about **data analysis** and **web development**. I'm currently honing my **Python** and **JavaScript (MERN Stack)** skills while working on various projects. I aim to build scalable and impactful applications that solve real-world problems.  
