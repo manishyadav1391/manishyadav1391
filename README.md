@@ -1,34 +1,41 @@
+# Hi there! 👋 I'm Manish Yadav
 
+### Software Engineer | Full-Stack & AI Chatbot Developer
 
-## 📫 Connect with Me  
-# Hi there! 👋 I'm Manish Yadav  
+## 🚀 About Me
+I'm a **Software Engineer at Silver Touch Technologies Ltd.** (B.E. in Computer Engineering) building **AI-powered chatbots, full-stack applications and Python automation solutions**. I enjoy turning real-world business problems into scalable, production-ready software.
 
-## 🚀 About Me  
-I'm a **3rd-year Computer Science Engineering student** passionate about **data analysis** and **web development**. I'm currently honing my **Python** and **JavaScript (MERN Stack)** skills while working on various projects. I aim to build scalable and impactful applications that solve real-world problems.  
+## 💼 What I'm Working On
+- 🤖 Integrating an **AI chatbot into an enterprise portal**, designing its conversational workflows and redesigning the UI
+- 💊 Configuring **Master Batch Records (MBR)** on the **BatchSmart** platform for a pharma client, and building a configuration feature for it
+- 🔐 Building authentication systems, REST APIs and workflow automation with **FastAPI, Next.js and PostgreSQL**
 
-## 🔥 Current Focus  
-- Preparing for **campus placements** (focusing on **DSA, system design, and competitive coding**)  
-- Mastering **Binary Trees, BSTs, and Graph algorithms** for coding interviews  
-- Exploring **data science** and **backend development**  
-- Improving **problem-solving skills** through **LeetCode & CodeChef**  
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, C, JavaScript, SQL
+- **Backend:** FastAPI, Node.js, Express.js, REST APIs, JWT Authentication
+- **Frontend:** React.js, Next.js, HTML, CSS
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **AI / LLM:** LLM Integrations, Chatbot Development, Ollama
+- **Automation:** Selenium, Playwright, OpenCV, Pytesseract (OCR), pandas, openpyxl
+- **DevOps & Tools:** Git, GitHub Actions, Docker, AWS, Terraform, Postman
 
-## 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript  
-- **Backend:** Node.js, Express.js, Hibernate  
-- **Frontend:** React.js, HTML, CSS  
-- **Databases:** MongoDB, MySQL  
-- **Tools & Frameworks:** Maven, Git, Postman  
+## 📌 Featured Projects
+- 🔒 **Shashwat – Digital Legacy Manager** (FastAPI, Next.js, PostgreSQL, Redis, AWS, Terraform): A zero-knowledge digital legacy platform with client-side AES-256-GCM encryption, Shamir's Secret Sharing for guardian-based vault recovery, and an automated escalation workflow.
+- 🧪 **AI-Powered QA Platform** (FastAPI, Next.js, Playwright, Ollama): Crawls websites, uses an LLM to generate test cases, converts them into executable Playwright/pytest scripts and reports results in real time.
+- 🏛️ **GeM Portal Automation** (Python, Selenium, OpenCV, Pytesseract): Automates the multi-step login with CAPTCHA solving using OCR and OTP retrieval via IMAP.
+- 💳 **UMB Payment Automation Bot** (Python, pandas, openpyxl): Automates financial payment decoding with business rules and generates output in a predefined Excel template.
+- 📧 **Parent Alert System** (MERN Stack): A leave management system where wardens approve or reject student leave requests and email alerts go to parents.
+- 🎓 **Student Management System** (Hibernate, Maven): A web-based system for managing student records with CRUD operations.
 
-## 📌 Projects  
-- 🚀 **Parent Alert System** (MERN Stack) – A leave management system where wardens can approve/reject student leave requests and send email alerts to parents.  
-- 🎓 **Student Management System** (Hibernate + Maven) – A web-based system for managing student records with CRUD operations.  
-- 🍽️ **Restaurant Booking System** (Ongoing) – A platform where users can book seats in restaurants, and restaurants can register themselves.  
+## 🏆 Achievements
+- Qualified **GATE twice** (All India Rank: 8000)
+- 🥈 2nd prize at the college-level Open House event (2022)
 
-## 📖 Learning & Growth  
-I'm actively improving my **coding skills** while preparing for **GATE & competitive programming**. I love exploring **data analysis techniques** and **software development methodologies**.  
+## 📚 Always Learning
+System design, backend architecture, LLM applications and cloud infrastructure.
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav1391/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishyadav940833@gmail.com) 
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav1391/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manish826439@gmail.com)
 
-Let's collaborate and build something amazing together! 🚀  
+Let's collaborate and build something amazing together! 🚀
